@@ -9,6 +9,8 @@
 - Keys can’t be exported. Once a key is in the Keystore, it can only be used for operations like encryption and decryption. The raw key itself is never accessible.
 - Customizable access controls. You can specify when and how a key can be used, like requiring biometric authentication (fingerprint or face unlock) to use the key.
 
+
+
 <p align="center">
 
 <img src="images/keystore_sample_screen_1.png" width="350" title="First screen">
